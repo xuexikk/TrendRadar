@@ -73,6 +73,7 @@ sora
 claude
 Anthropic
 
+苹果
 iphone
 ipad
 mac
@@ -95,6 +96,7 @@ ai
 
 芯片
 光刻机
+显卡
 
 科技
 
@@ -111,3 +113,19 @@ ai
 宇宙
 飞船
 航空
+
+手机
++发布
+
+OPPO
+一加
+
+三星
+
+vivo
+IQOO
+
+小米
+红米
+
+荣耀
